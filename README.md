@@ -9,4 +9,4 @@ This piece of code breaks discord's terms of service, you can get banned
 Bot works best with unix-like systems and won't work correctly on Windows
 
 ## Made with ❤️ by nlasted
-Don't hesistate to make issues, selfbot is still in development
+Don't hesistate to submit bugs in issues, selfbot is still in development
