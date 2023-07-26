@@ -7,6 +7,7 @@ This piece of code breaks discord's terms of service, you can get banned
 
 ## Additional info
 Bot works best with unix-like systems and won't work correctly on Windows
+Windows compatible version coming soon
 
 ## Made with ❤️ by nlasted
 Don't hesistate to submit bugs in issues, selfbot is still in development
